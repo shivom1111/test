@@ -3,7 +3,7 @@ void main()
 {
 inta,b;
 printf(" enter 2 no's:");
-scanf("\%d%d",&a,&b);
+scanf("%d%d",&a,&b);
 a=a^b;
 b=a^b;
 a=a^b;
